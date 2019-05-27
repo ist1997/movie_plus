@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#hall{
+    margin: auto;
+    margin-top: 100px;
+    width: 360px;
+    height: 330px;
+}
+
+#screen{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: silver;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+.rows{
+    width: 60px;
+    font-weight: 700;
+    float: left;
+    margin-top: 5px;
+        
+}
+#places{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 200px;
+    float: left;
+}
+.rows p{
+    text-align: center;
+    margin-bottom: 12px;
+}
+.sit{
+    float: left;
+    width: 21px;
+    height: 27px;
+    margin: 2px;
+    border-radius: 5px; 
+    padding-top: 2px;
+    text-align: center;
+    font-weight: 700;
+    color: silver;
+    border: 2px solid silver;
+}
+.active{
+    color: darkgreen;
+    border: 2px solid darkgreen;
+    cursor: pointer;
+     background: white;
+}
+
+.booked{
+    border: 2px solid silver;
+    color: silver;
+    background: white;
+}
+#orders{
+	margin-top:20px;
+    margin-left: 50px;
+}
+.order-info{
+    font-size: 20px;
+    background-color: gainsboro;
+    font-weight: 700;
+    padding: 5px 0 5px 0;
+    width: 350px;
+    color: black;
+    margin-bottom: 3px;
+    border-radius: 10px;
+}
+.order-info span{
+    margin-left: 15px;
+    
+}
+.order-price{
+    color: darkgreen;
+}
+.cancel{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    cursor: pointer;
+    left: 8px;
+}
+#order-btn{
+    width: 120px;
+    height: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+    border: 1px solid silver;
+    border-radius: 7px;
+    color: white;
+    background: darkgreen;
+    display: none;
+	font-size: 15px;
+}
+#all-price{
+    margin-top: 10px;
+}

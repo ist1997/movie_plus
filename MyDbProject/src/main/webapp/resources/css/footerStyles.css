@@ -1,0 +1,78 @@
+#footer {
+	height: 130px;
+	background: black;
+	width: 100%;
+	color:red;
+	margin-bottom:-110px;
+}
+
+.sec {
+	float: left;
+	height: 100%;
+	font-size: 14px;
+}
+
+
+
+#sec1 {
+	width: 350px;
+	margin-right: 5%;
+	margin-left: 85px;
+}
+
+#sec1 h5 {
+	margin-top: 2px;
+	font-weight: 600;
+	color: silver;
+	margin-left: 30px;
+}
+
+#contact a img {
+	width: 38px;
+	height: 38px;
+	margin-right: 7px;
+	border-radius: 10px;
+}
+
+#contact {
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+#sec2 {
+	width: 350px;
+	height: 100%;
+	text-align: center;
+	margin-right: 7%;
+}
+sec:after {
+	display: block;
+	content: '';
+	clear: both;
+}
+#mail{
+	color: darkOrange;
+	font-weight: 800;
+	font-size: 25px;
+	text-decoration: none;
+	position: relative;
+	top: 15px;
+}
+.txt{
+	position: relative;
+	top: 15px;
+	color: white;
+}
+#sec3{
+	width: 280px;
+	height: 100%;
+}
+#sec3 h3{
+	margin-left: 20px;
+	color: white;
+	font-weight: 700;
+}
+#date{
+	top: -2px;
+	margin-left: 20px;
+}

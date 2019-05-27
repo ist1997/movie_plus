@@ -1,0 +1,19 @@
+#navHeaderStyle{
+	border: none;
+}
+
+#myNavbar a{
+    font-size: 17px;
+    padding-bottom: 25px;
+}
+#myNavbar {
+	position:relative;
+	z-index: 10000;
+}
+#myNavbar  a:hover{
+    color: darkOrange;
+}
+
+
+
+

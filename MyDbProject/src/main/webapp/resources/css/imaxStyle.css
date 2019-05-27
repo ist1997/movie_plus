@@ -1,0 +1,70 @@
+.divClass1{
+	margin:auto;
+	padding:4px;	
+	border: 1px solid silver;
+	border-radius: 0.405cm;
+	width:1300px;
+	background: url(foto/navmenuhover.png);
+	text-align:center;
+	color:silver;
+	font-family: "Arial";
+	font-size:30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.divClass1 h2{
+    font-size: 40px;
+    line-height: 45px;
+    font-weight: 700;
+    display: block;
+    max-width: 450px;
+    color: antiquewhite;
+    margin: 13px auto;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+.divClass1 h4{
+    font-size: 40px;
+    line-height: 45px;
+    font-weight: 700;
+    display: block;
+    max-width: 450px;
+    color: antiquewhite;
+    margin: 13px auto;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.clmn{
+    margin: 0px;
+    padding:7px;
+    font-size: 16px;
+    color: white;
+    line-height: 24px;
+    display: block;
+    text-align: left;
+    font-weight: 600;
+}
+#wordse{
+    margin-left: 30%;
+    color: white;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+    line-height: 44px;
+    max-width: 570px;
+    text-align: center;
+}
+.imageOfNolan img{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+
+}
+.imageOfNolan p{
+    border: 0;
+    margin: 0px;
+    font-size: 1px;
+    font: inherit;
+    vertical-align: baseline; 
+}

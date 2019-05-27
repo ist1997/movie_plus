@@ -1,0 +1,42 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+#about1{
+	min-height:862px;
+	background: url("../img/4DXbg.png") no-repeat center;
+	width: 1150;
+	height: 650px;
+	background-size: cover;
+	font-family: 'Calibri';
+	color: white;
+	text-align: center;
+	text-shadow: 0 0 0.2888cm black;
+	position: relative;
+	margin-top:-20px;
+}
+#info{
+	font-size: 18px;
+	width: 660px;
+	font-weight: 700;
+	margin: auto;
+	position: relative;
+	top: 30px;
+}
+#rules{
+	position: relative;
+	top: 130px;
+}
+#rules li{
+	margin-top: 7px;
+	text-align: left;
+	margin-left: 350px;
+	font-size: 14px;
+}
+#rules p{
+	margin-bottom: 10px;
+	font-weight: 900;
+}
+#luck{
+	margin-top: 10px;
+}

@@ -1,0 +1,58 @@
+ *{
+ margin: 0;
+ padding: 0;
+ 
+ }
+	.btn-success{
+		color: darkgreen;
+    	background-color: white;
+	}
+	#cont{
+	width:100%;
+	}
+
+	#filter{
+	width: 150px;
+	float: left;
+	}
+	#ganre{
+	float : left;
+	width: 870px;
+	margin-left:80px;
+	margin-top:40px;
+	
+	}
+	.dropdown{
+	margin-top: 20px;
+	}
+	.btn-drop{
+	float: left;
+	}
+	#btn-size{
+	margin-top: -20px;
+	}
+	.view{
+		margin-top:40px;
+		float: left;
+	}
+	.bot{
+		width:130px;
+		float: left;
+		margin-right: 120px;
+	}
+	#films-name {
+		width: 160px;
+		padding: 0px;
+		text-align: left;
+
+	}
+	#films-name a{
+		color:black;
+		text-decoration: none;
+		font-size: 11px;
+   	    font-weight: 800;
+	}
+	#heightOfFilm{
+	min-height:842px;
+	}
+
